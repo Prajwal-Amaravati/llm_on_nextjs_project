@@ -17,8 +17,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Prajwal-Amaravati/llm_on_nextjs_project
+   cd llm_on_nextjs_project
    ```
 
 2. Install dependencies:
